@@ -1,0 +1,96 @@
+Buatlah program yang menggambarkan pola seperti contoh gambar yang diberikan pada soal ini.<br/>
+
+<h4>Format Masukan:</h4>
+n, 0 < n < 20, integer ukuran pola.<br/>
+
+
+<h4>Format Keluaran:</h4>
+pola yang dispesifikasikan. pola tidak ada <i>newline</i> di bagian atas.<br/>
+
+2<br/><br/>
+
+<pre>
+**              **
+***  *      *  ***
+  ****      ****
+     *  **  *
+     ********
+       ****
+        **
+</pre><br/>
+
+
+3<br/><br/>
+
+
+<pre>
+***                      *** sdh
+***                      *** sdh
+****    *          *    **** sdh
+   **  **          **  **	sdh	
+   ******          ******	sdh
+        *    **    *
+        **  ****  **
+        ************
+         **********
+          ********
+           ******
+            ****
+             **
+</pre><br/>
+
+
+
+Buatlah program yang menerima masukan kumpulan integer untuk dimasukkan ke dalam <i>
+array of integer</i>, jumlah elemen <i>array</i> selalu merupakan kelipatan 4.
+
+Masukan berikutnya adalah integer posisi perempat <i>array</i>,
+dimana jika posisi 1 maka wilayahnya adalah 1/4 bagian pertama <i>array</i>, 
+jika posisi 2 maka wilayahnya adalah 1/4 bagian kedua, 
+begitu pula jika posisi 3 dan 4. 
+
+Tampilkan angka minimal dari bagian wilayah yang diminta sebagai angka posisi.<br/>
+
+<h4>Format Masukan:</h4>
+n, 4 <= n <= 60, integer banyaknya elemen <i>array</i>.<br/>
+n baris integer isi <i>array</i>.<br/>
+m, 1 <= m <= 4, integer posisi perempat <i>array</i>.
+
+<h4>Format Keluaran:</h4>
+angka minimal dari perempat posisi masukan.<br/>
+
+
+4<br/>
+4<br/>
+5<br/>
+1<br/>
+3<br/>
+2<br/><br/>
+
+5<br/><br/>
+
+
+input:
+8<br/>
+	2<br/>
+	3<br/>
+4<br/>
+5<br/>
+	4<br/>
+	9<br/>
+12<br/>
+11<br/>
+
+4<br/><br/>
+
+
+
+output:
+11<br/><br/>
+
+
+
+
+
+
+

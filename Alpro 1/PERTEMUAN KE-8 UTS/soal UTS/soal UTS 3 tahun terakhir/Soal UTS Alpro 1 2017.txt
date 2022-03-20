@@ -1,0 +1,105 @@
+<b>Kompetensi yang dievaluasi: Kemampuan menggunakan pengulangan for untuk membuat pola</b><br/><br/>
+Buatlah pola seperti contoh. (bagian atas pola tidak ada newline dan bagian bawah pola terdapat satu newline)<br/>
+
+<h4>Format Masukan:</h4>
+n, 0 < n < 20, bilangan bulat untuk pola.<br/>
+
+<h4>Format Keluaran:</h4>
+pola<br/>
+
+
+jika masukan adalah 3
+
+
+
+      ******
+     ********
+    **********
+  ****      ****
+ *****      *****
+******      ******
+    ***    ***
+     ***  ***
+      ******
+     ********
+    **********
+   ***      ***
+  ***        ***
+ ***          ***
+
+
+
+jumlah masukan 4
+
+       ********
+      **********
+     ************
+    **************
+   *****      *****
+  ******      ******
+ *******      *******
+********      ********
+     ****    ****
+      ****  ****
+       ********
+      **********
+     ************
+    ****      ****
+   ****        ****
+  ****          ****
+ ****            ****
+
+
+jika jumlah masukan 5
+
+         **********
+        ************
+       **************
+      ****************
+     ******************
+    ******        ****** 
+   *******        *******
+  ********        ********
+ *********        *********
+**********        **********
+      *****      *****
+       *****    *****
+        *****  *****
+         **********
+        ************
+       **************
+      ****************
+     *****        *****
+    *****          *****
+   *****            *****
+  *****              *****
+ *****                *****
+
+<b>Kompetensi yang dievaluasi: Kemampuan menggunakan pengulangan for untuk mengoperasikan <i>array</i></b><br/><br/>
+Diberikan sebuah <i>array</i> dari float. Hitung banyaknya bilangan yang dua angka dibelakang komanya merupakan kelipatan dari bilangan di depan koma.<br/>
+
+<h4>Format Masukan:</h4>
+n, 0 < n < 100, banyaknya isi kotak di dalam <i>arrray</i>.<br/>
+n baris float banyaknya masukan isi <i>array</i>.<br>
+
+
+<h4>Format Keluaran:</h4>
+banyaknya bilangan isi <i>array</i> yang sesuai spesifikasi soal.<br/>
+
+
+4<br/>
+5.25<br/>
+7.21<br/>
+11.31<br/>
+5.35<br/><br/>
+
+3<br/><br/>
+
+
+
+3<br/>
+4.25<br/>
+2.31<br/>
+90.18<br/><br/>
+
+0<br/><br/>

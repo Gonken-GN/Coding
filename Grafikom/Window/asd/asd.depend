@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1632775276 source:f:\kuliah\coding\grafikom\window\asd\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1633338019 source:f:\kuliah\coding\grafikom\window\asd\main.cpp
+	<iostream>
+	<gl/gl.h>
+	<GLFW/glfw3.h>
+	<glad/glad.h>
+

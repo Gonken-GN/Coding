@@ -1,0 +1,78 @@
+Kemampuan yang dievaluasi: kemampuan menggunakan for untuk membuat tampilan gambar.<br/>
+Buatlah program untuk membuat pola pada contoh berikut jika masukan adalah 4.
+<pre>
+****   ************    
+ ****  *******  ****     
+  **** ******    ****    
+   *********      ********
+   *********      ********
+  **** ******    ****
+ ****  *******  ****
+****   ************
+</pre>
+<br/>
+<br/>
+jika n adalah 3 maka polanya menjadi<br/>
+
+<pre>
+***  *********
+ *** *****  ***
+  *******    ******
+  *******    ******
+ *** *****  ***
+***  *********
+</pre>
+<br/>
+
+<h4>Format Masukan:</h4>
+n, 0 < n < 20, integer penentu ukuran pola.<br/> 
+
+
+<h4>Format Keluaran:</h4>
+seperti contoh pola pada soal di atas.<br/>
+
+
+
+
+Kemampuan yang dievaluasi: kemampuan menggunakan for untuk operasi array.<br/>
+Diberikan sebuah array dari karakter, tampilkan isi array dimulai dari huruf tengah separuh depan atau separuh belakang.<br/>
+
+
+<h4>Format Masukan:</h4>
+n, 0 < n < 50, banyaknya karakter isi array, selalu genap.<br/>
+n baris karakter.<br/> 
+
+
+<h4>Format Keluaran:</h4>
+separuh depan dengan awal adalah huruf tengah - separuh belakang dengan awalan huruf belakang.<br/>
+
+
+6<br/>
+a<br/>
+i<br/>
+u<br/>
+e<br/>
+o<br/>
+x<br/><br/>
+
+u i a - x o e<br/><br/>
+
+
+10<br/>
+t<br/>
+a<br/>
+t<br/>
+i<br/>
+t<br/>
+u<br/>
+d<br/>
+a<br/>
+d<br/>
+i<br/><br/>
+
+t i t a t - i d a d u<br/><br/>
+
+
+
+
+

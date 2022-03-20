@@ -1,0 +1,50 @@
+Buatlah fungsi atau prosedur untuk mengerjakan soal ini. Diberikan sebuah array of string. Periksa apakah semua string di dalam array itu memiliki jumlah huruf vokal dan konsonan yang sama.<br/>
+
+<h4>Format Masukan:</h4>
+n, 0 < n < 50, integer banyaknya string<br/>
+n baris string elemen array<br/>
+
+<h4>Format Keluaran:</h4>
+sama atau tidak sama<br/>
+
+
+3<br/>
+apa<br/>
+ini<br/>
+itu<br/><br/>
+
+sama<br/><br/>
+
+3<br/>
+apa<br/>
+pra<br/>
+itu<br/><br/>
+
+tidak sama<br/><br/>
+
+
+
+Buatlah fungsi atau prosedur untuk mengerjakan soal ini. Diberikan sebuah array of string. Tampilkan sebagai palindrom atau bukan untuk setiap string, dimana palindrom adalah jika huruf separuh depan merupakan cermin dari huruf separuh belakang.<br/>
+
+
+<h4>Format Masukan:</h4>
+n, 0 < n < 50, integer banyaknya string<br/>
+n baris string elemen array<br/>
+
+<h4>Format Keluaran:</h4>
+palindrom atau bukan sebanyak n<br/>
+
+
+3<br/>
+apa<br/>
+pra<br/>
+iya<br/><br/>
+
+palindrom bukan bukan<br/><br/>
+
+3<br/>
+atta<br/>
+apa<br/>
+dia<br/><br/>
+
+palindrom palindrom bukan<br/><br/>

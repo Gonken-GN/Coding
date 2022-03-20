@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="test2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/test2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="C:/MinGW/lib" />
+				</ResourceCompiler>
+				<Linker>
+					<Add library="C:/MinGW/lib/libgdi32.a" />
+					<Add library="C:/MinGW/lib/libglfw3.a" />
+					<Add library="C:/MinGW/lib/libglfw3dll.a" />
+					<Add library="C:/MinGW/lib/libopengl32.a" />
+					<Add library="../../../../CodeBlocks/MinGW/lib/libgdi32.a" />
+					<Add library="../../../../CodeBlocks/MinGW/lib/libglfw3.a" />
+					<Add library="../../../../CodeBlocks/MinGW/lib/libglfw3dll.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/test2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:/MinGW/lib/libgdi32.a" />
+					<Add library="C:/MinGW/lib/libglfw3.a" />
+					<Add library="C:/MinGW/lib/libglfw3dll.a" />
+					<Add library="C:/MinGW/lib/libopengl32.a" />
+					<Add library="../../../../CodeBlocks/MinGW/lib/libgdi32.a" />
+					<Add library="../../../../CodeBlocks/MinGW/lib/libglfw3.a" />
+					<Add library="../../../../CodeBlocks/MinGW/lib/libglfw3dll.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="../../../../CodeBlocks/MinGW/lib/libgdi32.a" />
+			<Add library="../../../../CodeBlocks/MinGW/lib/libglfw3.a" />
+			<Add library="../../../../CodeBlocks/MinGW/lib/libglfw3dll.a" />
+		</Linker>
+		<Unit filename="glad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

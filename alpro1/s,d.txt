@@ -1,0 +1,2 @@
+OOp membuat suatu konsep bahwa benda-benda bisa dipisah menjadi suatu objek
+Konsep OOP sangat mudah diaplikasikan terutama dalam pembuatan game karena OOP dapat merubah suatu code tanpa merubah susunan kode yang lainnya

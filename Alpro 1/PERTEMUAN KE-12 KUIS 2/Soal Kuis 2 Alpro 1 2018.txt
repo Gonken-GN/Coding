@@ -1,0 +1,98 @@
+Diberikan sebuah string untuk diperiksa apakah string mengandung sub kata masukan sebanyak minimal
+sesuai dengan angka masukan. Huruf yang sudah masuk sub kata dihitung tidak dihitung kembali.<br/>
+
+<h4>Format Masukan:</h4>
+sebuah string dengan panjang maksimal 200 huruf.<br/>
+sebuah string sub kata masukan maksimal 4 huruf.<br/>
+m, 0 < m < 50, sebuah integer minimal banyaknya sub kata.<br/>
+
+
+<h4>Format Keluaran:</h4>
+valid atau tidak valid.<br/>
+
+
+kasur_itu_rusak<br/>
+ka<br/>
+2<br/><br/>
+
+tidak valid<br/><br/>
+
+
+kakasur_itu_rusak_kakashi<br/>
+ka<br/>
+3<br/><br/>
+
+valid<br/><br/>
+
+
+ternak_lele_lele<br/>
+le<br/>
+2<br/><br/>
+
+valid<br/><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diberikan sebuah array of string dengan isi string sebanyak n masukan. Buatlah program yang menampilkan pola seperti contoh test case.<br/>
+
+<h4>Format Masukan:</h4>
+n, 0 < n < 50, banyaknya elemen string dengan maksimal jumlah huruf 50 huruf.<br/>
+n baris string isi array.<br/>
+
+
+<h4>Format Keluaran:</h4>
+pola<br/>
+
+
+
+
+5<br/>
+hidup<br/>
+ini<br/>
+ya<br/>
+begini<br/>
+ini<br/><br/>
+
+<pre>
+     hidup
+  ini
+ya
+  inigeb
+        ini
+</pre><br/>
+   
+
+
+6<br/>
+what<br/>
+do<br/>
+you<br/>
+look<br/>
+for<br/>
+actually<br/><br/>
+
+<pre>
+     what
+   od
+you
+look
+    rof
+       actually
+</pre><br/>
+
+
+
+
+
+
+

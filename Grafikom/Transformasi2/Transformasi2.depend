@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1632775276 source:f:\kuliah\coding\grafikom\transformasi2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1637082234 source:f:\kuliah\coding\grafikom\transformasi2\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<learnopengl/shader_s.h>
+	<iostream>
+
